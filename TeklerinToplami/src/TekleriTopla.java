@@ -10,7 +10,7 @@ public class TekleriTopla {
 			System.out.print("Tek girine kadar sayı gir:  " );
 			int sayi = scanner.nextInt();
 			
-			if(sayi%2==0) {
+			if(sayi%2==0 && sayi%4==0) {
 				toplam+=sayi;
 			}else {
 				break;
