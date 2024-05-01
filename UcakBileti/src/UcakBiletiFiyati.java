@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class UcakBiletiFiyati {
 
 	private static final Scanner scanner = new Scanner(System.in);
-	Logger logger = Logger.
 
 	public static void main(String[] args) {
 		int mesafe;
